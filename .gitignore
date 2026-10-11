@@ -1,0 +1,21 @@
+```gitignore
+# Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local machine configuration
+local.properties
+
+# Native build outputs
+.externalNativeBuild/
+.cxx/
+
+# Generated files
+captures/
+.DS_Store
+```
